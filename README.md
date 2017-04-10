@@ -1,5 +1,7 @@
 # owns
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeekay/owns.svg)](https://greenkeeper.io/)
+
 [![npm][npm-img]][npm-url]
 <!-- [![build][build-img]][build-url] -->
 <!-- [![dependencies][dependencies-img]][dependencies-url] -->
