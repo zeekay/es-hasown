@@ -1,6 +1,6 @@
 {
   "name": "es-hasown",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shorthand for Object.prototype.hasOwnProperty.call(obj, name)",
   "homepage": "http://github.com/zeekay/es-hasown",
   "bugs": "http://github.com/zeekay/es-hasown/issues",
