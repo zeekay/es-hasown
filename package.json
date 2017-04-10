@@ -1,0 +1,27 @@
+{
+  "name": "owns",
+  "version": "0.1.0",
+  "description": "Shorthand Object.prototype.hasOwnProperty.call(obj, name).",
+  "homepage": "http://github.com/zeekay/owns",
+  "bugs": "http://github.com/zeekay/owns/issues",
+  "keywords": [
+    "owns",
+    "has-own",
+    "Object.prototype",
+    "hasOwnProperty"
+  ],
+  "main": "index.js",
+  "module": "index.mjs",
+  "files": [
+    "index.js",
+    "index.mjs"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zeekay/owns"
+  }
+}
