@@ -1,12 +1,12 @@
 {
-  "name": "owns",
+  "name": "es-hasown",
   "version": "0.1.0",
-  "description": "Shorthand Object.prototype.hasOwnProperty.call(obj, name).",
-  "homepage": "http://github.com/zeekay/owns",
-  "bugs": "http://github.com/zeekay/owns/issues",
+  "description": "Shorthand for Object.prototype.hasOwnProperty.call(obj, name)",
+  "homepage": "http://github.com/zeekay/es-hasown",
+  "bugs": "http://github.com/zeekay/es-hasown/issues",
   "keywords": [
     "owns",
-    "has-own",
+    "hasown",
     "Object.prototype",
     "hasOwnProperty"
   ],
@@ -22,6 +22,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/zeekay/owns"
+    "url": "http://github.com/zeekay/es-hasown"
   }
 }
